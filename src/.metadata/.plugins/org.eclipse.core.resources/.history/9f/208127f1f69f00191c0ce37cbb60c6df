@@ -1,9 +1,0 @@
-public class CriaConta {
-	public static void main(String[] args) {
-		Conta primeiraConta = new Conta();
-		primeiraConta.saldo = 200;
-		primeiraConta.agencia = 123;
-		primeiraConta.numero = 1111;
-		primeiraConta.titular = "Yuri";
-	}
-}

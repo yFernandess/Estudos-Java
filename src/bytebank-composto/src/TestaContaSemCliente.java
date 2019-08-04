@@ -1,7 +1,7 @@
 public class TestaContaSemCliente {
 	public static void main(String[] args) {
 		Conta contaDaMayara = new Conta();
-		System.out.println(contaDaMayara.saldo + "\r\n");
+		System.out.println(contaDaMayara.getSaldo() + "\r\n");
 		
 		contaDaMayara.titular = new Cliente();
 		System.out.println(contaDaMayara.titular);
