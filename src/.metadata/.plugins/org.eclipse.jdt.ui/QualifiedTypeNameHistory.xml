@@ -5,4 +5,9 @@
 <fullyQualifiedTypeName name="Conta"/>
 <fullyQualifiedTypeName name="Cliente"/>
 <fullyQualifiedTypeName name="FuncionarioTeste"/>
+<fullyQualifiedTypeName name="ControleBonificacao"/>
+<fullyQualifiedTypeName name="EditorVideo"/>
+<fullyQualifiedTypeName name="Funcionario"/>
+<fullyQualifiedTypeName name="ContaCorrente"/>
+<fullyQualifiedTypeName name="ContaPoupanca"/>
 </qualifiedTypeNameHistroy>
